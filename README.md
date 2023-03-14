@@ -1,6 +1,4 @@
 # ml-options-pricing
-git branch -M main
-
 --- 
 
 ## Inroduction
